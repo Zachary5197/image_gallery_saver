@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace = "com.example.image_galley_saver"
+    namespace = "com.example.imagegallerysaver"
     compileSdkVersion 31
 
     sourceSets {
